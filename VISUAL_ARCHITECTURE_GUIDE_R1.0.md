@@ -6,13 +6,13 @@
 
 **License:** Creative Commons Attribution-ShareAlike 4.0 International (CC-BY-SA 4.0)
 
-**Author:** Sichen Ying (published as Si Ying)
+**Author:** Si Ying
 
 **Legal Owner:** Tastemaker Studio LLC d.b.a. Ink & Aether
 
 ---
 
-Copyright © 2026 Si Ying (pseudonym) / Tastemaker Studio LLC.
+Copyright © 2026 Si Ying / Tastemaker Studio LLC.
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License (CC BY-SA 4.0).
 
@@ -274,7 +274,7 @@ Stakeholder Signature: _______________________   Date: _______________
 ```
 ---
 
-Copyright © 2026 Si Ying (pseudonym) / Tastemaker Studio LLC.
+Copyright © 2026 Si Ying / Tastemaker Studio LLC d.b.a. Ink & Aether
 This work is licensed under a Creative Commons Attribution-ShareAlike 4.0
 International License (CC BY-SA 4.0).
 
